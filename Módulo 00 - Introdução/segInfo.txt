@@ -1,0 +1,8 @@
+Curso de Segurança da Informação
+    <> Computadores e Dispositivos móveis
+    <> Que será falado
+        Backup, Boatos, Códigos Maliciosos, Comércio Eletrônico,
+        Computadores, Dispositivos Móveis Internet Banking,
+        Privacidade, Proteção de Dados, Redes, Redes Sociais,
+        Senhas, Vazamento de Dados e Verificações em Duas Etapas.
+    <> 
